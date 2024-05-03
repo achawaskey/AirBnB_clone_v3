@@ -117,4 +117,7 @@ class DBStorage:
         '''
         obj_dict = models.storage.all(cls)
         return len(obj_dict)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16e279fb8f005562e5c2eb0d59bc5e2c72d9bffb

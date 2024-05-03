@@ -152,4 +152,7 @@ class testFileStorage(unittest.TestCase):
         new_state3 = State(name="California")
         storage.new(new_state3)
         self.assertEqual(old_count + 3, storage.count("State"))
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16e279fb8f005562e5c2eb0d59bc5e2c72d9bffb
